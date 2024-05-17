@@ -1,0 +1,1 @@
+This project involves developing a healthcare chatbot using machine learning models, specifically a Decision Tree and SVM, to analyze symptoms and predict potential diseases, providing users with relevant information, severity assessments, and precautionary measures based on their inputs.
